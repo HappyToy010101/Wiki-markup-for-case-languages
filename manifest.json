@@ -1,11 +1,10 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.0",
-	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
-	"isDesktopOnly": false
+    "id": "Wiki-markup-for-case-languages",
+    "name": "Сase system Wiki markup",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "The | symbol is automatically added to wiki markup to separate the word for display and the word for links.",
+    "author": "HappyToy010101",
+    "authorUrl": "https://github.com/HappyToy010101",
+    "isDesktopOnly": false
 }
